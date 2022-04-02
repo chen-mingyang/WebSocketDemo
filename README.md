@@ -7,7 +7,7 @@
 * 四、在WebSocketConfig配置类，springboot要注入ServerEndpointExporter
 * 五、在WebSockTest.java创建发送自定义消息sendInfo，创建DemoController通过调用push api，向客户端的全体用户推送自定义信息
 
-# 参考连接
+# 参考连接*
 https://zhuanlan.zhihu.com/p/145628937
 https://help.aliyun.com/document_detail/127179.html
 http://ruanyifeng.com/blog/2017/05/websocket.html#comment-text
